@@ -1,0 +1,14 @@
+body {
+    --color1:blueviolet;
+}
+
+.coder {
+    background: var(--color1);
+}
+
+
+.cc {
+    font-family: cursive;
+    font-size: 200px;
+    color: aliceblue;
+}
